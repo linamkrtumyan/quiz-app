@@ -16,3 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+
+
+https://github.com/user-attachments/assets/1b59337f-90f8-49b9-8aff-46fdff241ebd
+
