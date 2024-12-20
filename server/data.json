@@ -1,0 +1,841 @@
+{
+  "data": {
+    "name": "College Biology Exam Prep",
+    "categories": [
+      {
+        "id": 771,
+        "name": "Population Biology"
+      },
+      {
+        "id": 772,
+        "name": "Molecular and Cellular Biology"
+      },
+      {
+        "id": 773,
+        "name": "Organismal Biology"
+      }
+    ],
+    "questions": [
+      {
+        "id": 19537,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "The following statements about the adaptation of animals"
+          },
+          {
+            "type": "text",
+            "content": "to colder climates are all true, **except**:"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Animals lost much of their fur as they adapted to colder climates"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Many species developed thicker layers of fat for insulation"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "The transition was facilitated by selective pressures from changing temperatures"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Some animals developed specialized behaviors like hibernation"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Adaptations such as fur color change with seasons evolved"
+          }
+        ]
+      },
+      {
+        "id": 19540,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "What is the **main** structural difference between the plasma membrane of an animal cell and the cell wall of a fungal cell?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Animal cell membranes are lipid bilayers without structural rigidity; fungal cell walls are strong due to chitin."
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Animal cell membranes contain cellulose; fungal cell walls do not."
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Animal cell membranes are strong and impermeable; fungal cell walls are flexible."
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Animal cell membranes have a crystalline structure; fungal cell walls are amorphous."
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Animal cell membranes are always rigid; fungal cell walls become flexible under heat."
+          }
+        ]
+      },
+      {
+        "id": 19541,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "During glycolysis, what occurs to glucose at the start of the pathway?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "It is converted into two molecules of pyruvate"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "It directly enters the citric acid cycle"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "It is transformed into an amino acid"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "It is stored as glycogen immediately"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "It is entirely excreted from the cell"
+          }
+        ]
+      },
+      {
+        "id": 19542,
+        "category_id": 773,
+        "question": [
+          {
+            "type": "text",
+            "content": "In flowering plants, from which tissues does a fruit typically develop?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "From the ovary tissue after fertilization"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "From the pollen grains"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "From the roots absorbing nutrients"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "From the stem cells differentiating"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "From the leaf tissues"
+          }
+        ]
+      },
+      {
+        "id": 19543,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "During the process of transcription, which statement correctly describes the relationship between the primary molecular components involved?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "DNA serves as a template to synthesize a complementary RNA sequence, where the RNA polymerase initiates and elongates the RNA chain."
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "DNA is directly translated into proteins by ribosomes without involvement of RNA."
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "RNA polymerase duplicates RNA strands directly into DNA molecules to synthesize proteins."
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "RNA sequences are transcribed into DNA, which are then responsible for initiating transcription in the ribosome."
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "RNA polymerase uses lipids as a template to form RNA, with DNA playing no supportive role."
+          }
+        ]
+      },
+      {
+        "id": 19546,
+        "category_id": 773,
+        "question": [
+          {
+            "type": "text",
+            "content": "In mammals, what primarily regulates the circadian rhythm, often referred to as the biological clock?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Suprachiasmatic Nucleus"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Hormones"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "External temperature cycles"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Blood sugar levels"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Body mass index"
+          }
+        ]
+      },
+      {
+        "id": 19547,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "In a population of plants, a trait such as flower color can be influenced by environmental conditions. What kind of genetic trait is this considered to be?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Multifactorial"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Autosomal"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "On the X chromosome"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Only present in the phenotypes of one generation"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Present equally in phenotypes regardless of environment"
+          }
+        ]
+      },
+      {
+        "id": 19548,
+        "category_id": 773,
+        "question": [
+          {
+            "type": "text",
+            "content": "What passes through the gastroesophageal sphincter?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Bolus"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Chyme"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Feces"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Stomach acid"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Digestive enzymes"
+          }
+        ]
+      },
+      {
+        "id": 19549,
+        "category_id": 773,
+        "question": [
+          {
+            "type": "text",
+            "content": "In mammals, how does sperm reach the egg during fertilization?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "During mating, sperm are deposited near the cervix and travel through the cervix into the uterus. They continue into the fallopian tubes where fertilization of the egg occurs."
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Sperm are directly deposited into the fallopian tubes where they instantly fertilize the nearest egg."
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Sperm enter the bloodstream through the uterus and travel to the egg in the ovaries for fertilization."
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Sperm are stored in the uterus until an egg passes by, at which point fertilization occurs in the uterus."
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Sperm are deposited on the surface of the ovaries where they fertilize any eggs ready for release."
+          }
+        ]
+      },
+      {
+        "id": 19550,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "In a population of wildflowers, the color of the petals is determined by a simple recessive genetic trait. Based on this trait, which generalization about the genetic appearance of flower color is **most likely** to be true?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Homozygous recessive flowers display the recessive color, while heterozygous flowers do not."
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "All flowers display the same color regardless of their genotype."
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Homozygous dominant flowers show the recessive color."
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Heterozygous flowers show an intermediate color between dominant and recessive."
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Recessive colors appear only when there are many dominant alleles."
+          }
+        ]
+      },
+      {
+        "id": 19551,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following best describes the concept of **enzymatic specificity**?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Enzymes catalyzing reactions only with specific substrates due to their active site's shape"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Enzymes reacting with any substrate to produce energy"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "DNA sequences that encode multiple enzymes that perform unrelated reactions"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Cell membranes allowing certain enzymes to enter while blocking others"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "The nucleus selectively expressing only specific enzymes at all times"
+          }
+        ]
+      },
+      {
+        "id": 19553,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "What is the primary role of codons found in mRNA during protein synthesis?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "To specify the sequence of amino acids in a protein"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "To destroy misfolded proteins after synthesis"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "To proofread the newly synthesized protein for accuracy"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "To alter the structure of tRNA during translation"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "To initiate the replication of DNA strands"
+          }
+        ]
+      },
+      {
+        "id": 19554,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "Which of the following is the **most accurate** example of migration behavior?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Monarch butterflies travel thousands of miles from North America to central Mexico for the winter"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Earthworms move to deeper soil layers during heavy rain to avoid drowning"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "A cheetah sprints quickly to catch its prey in open savannah"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "A squirrel stores food in various locations during the fall"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "A chameleon changes its color to match the environment"
+          }
+        ]
+      },
+      {
+        "id": 19555,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "In a Bb x Bb cross involving two heterozygous rabbits, what are the genotypes of the offspring in terms of coat color?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "25% BB (homozygous dominant), 50% Bb (heterozygous), 25% bb (homozygous recessive)"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "75% BB (homozygous recessive), 25% bb (homozygous dominant)"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "100% Bb (both homozygous and heterozygous)"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "50% BB (homozygous recessive), 25% Bb (heterozygous), 25% bb (homozygous dominant)"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "25% BB (heterozygous dominant), 25% Bb (homozygous), 50% bb (heterozygous recessive)"
+          }
+        ]
+      },
+      {
+        "id": 19556,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "Where would you expect to find cilia on a cell?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Cell membrane exterior"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Nucleus exterior"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Cytoplasm interior"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Endoplasmic reticulum exterior"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Between the layers of the nuclear membrane"
+          }
+        ]
+      },
+      {
+        "id": 19557,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "In a population of mice, some individuals have brown fur, while others have white fur. A mouse with brown fur and a mouse with white fur possess different __________ of the same gene responsible for fur color."
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Alleles"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Loci"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Proteins"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Genotypes"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Chromosomes"
+          }
+        ]
+      },
+      {
+        "id": 19562,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "Identify which of the following conditions can lead to a permanent change in the DNA sequence of a bacterial cell."
+          },
+          {
+            "type": "text",
+            "content": "i. High levels of UV radiation"
+          },
+          {
+            "type": "text",
+            "content": "ii. Mutagenic chemicals interacting with the DNA"
+          },
+          {
+            "type": "text",
+            "content": "iii. Normal bacterial cell division"
+          },
+          {
+            "type": "text",
+            "content": "iv. Oxidative stress within the cell"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "i, ii, and iv"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "ii and iii"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "i, ii, iii, and iv"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "iv only"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "i and ii only"
+          }
+        ]
+      },
+      {
+        "id": 19563,
+        "category_id": 773,
+        "question": [
+          {
+            "type": "text",
+            "content": "When you twist your ankle, which type of tissue is primarily affected?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Ligament"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Bone"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Muscle"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Cartilage"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Tendon"
+          }
+        ]
+      },
+      {
+        "id": 19565,
+        "category_id": 771,
+        "question": [
+          {
+            "type": "text",
+            "content": "The marine biome is characterized by an abundance of which animals?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Fish and marine mammals"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Large herbivores"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Reptiles"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Insects"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Birds"
+          }
+        ]
+      },
+      {
+        "id": 19567,
+        "category_id": 772,
+        "question": [
+          {
+            "type": "text",
+            "content": "What are the two main types of cells based on their structure?"
+          }
+        ],
+        "answer": [
+          {
+            "type": "text",
+            "content": "Prokaryotic and Eukaryotic"
+          }
+        ],
+        "distractor1": [
+          {
+            "type": "text",
+            "content": "Bacterial and Viral"
+          }
+        ],
+        "distractor2": [
+          {
+            "type": "text",
+            "content": "Mitochondrial and Ribosomal"
+          }
+        ],
+        "distractor3": [
+          {
+            "type": "text",
+            "content": "Autotrophic and Heterotrophic"
+          }
+        ],
+        "distractor4": [
+          {
+            "type": "text",
+            "content": "Plant and Fungal"
+          }
+        ]
+      }
+    ]
+  }
+}
